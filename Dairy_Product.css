@@ -1,0 +1,415 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#pdt-main {
+    height: 800px;
+    width: 1349px;
+    background-image: url(/Background_Dairy\ _Proj.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#pdt-head {
+    background-color: rgb(78, 139, 219);
+    height: 90px;
+    width: 1349px;
+    position: absolute;
+}
+
+#pdt-h1 {
+    position: absolute;
+    width: 200px;
+    text-align: center;
+    left: 40%;
+    top: 32%;
+    font-size: large;
+    /* border: 3px solid red; */
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+#head-form>input {
+    position: absolute;
+    border-radius: 4px;
+    right: 30px;
+    top: 40%;
+    height: 27px;
+    width: 220px;
+    /* border-radius: 50%; */
+}
+
+#pdt-srch {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    top: 44%;
+    right: 37px;
+}
+
+#head-form>input:hover {
+    background-color: #c5dfec;
+}
+
+
+#pdt-asi {
+    height: 300px;
+    width: 1349px;
+    position: absolute;
+    top: 26%;
+    background-position: center;
+    background-color: white;
+    background-size: cover;
+    background-image: url(/Dairy_Project/InkedProducts_bg1.jpg);
+}
+
+.mar-img {
+    height: 60px;
+    width: 100px;
+}
+
+
+
+#pdt-detail {
+    height: 413px;
+    width: 1349px;
+    /* background-color: red; */
+    position: absolute;
+    top: 71%;
+    display: flex;
+}
+
+.det1 {
+    height: 300px;
+    width: 335px;
+    /* border: 4px solid black; */
+    background-color: #108bce;
+    margin-top: 57px;
+    border-radius: 8px;
+    /* position: absolute; */
+    /* 
+    top: 5%; */
+    
+    animation: infinite;
+    box-shadow: 0px 0px 23px 5px #42A5F5;
+}
+
+.det1:hover {
+    background-position: 0pt;
+
+}
+
+#det1-div1>a {
+    color: red;
+    text-decoration: none;
+    font-size: 25px;
+    position: absolute;
+    top: 78%;
+    left: 10%;
+}
+
+#det1-div1>a:hover {
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+#detail1 {
+    /* height: 300px;
+    width: 335px; */
+    background-color: #fff;
+    background-image: url(/Dairy_Project/milk2.jpg);
+    padding-left: 26px;
+    text-decoration: none;
+}
+
+
+
+#milk-head {
+    height: 200px;
+    width: 1349px;
+    background-image: url(/Dairy_Project/Screenshot\ 2.png);
+    background-repeat: no-repeat;
+}
+
+#milk-html{
+    height: 795px;
+    width: auto;
+    background-color: red;
+    position: relative;
+}
+
+
+#milk1 {
+    height: 265px;
+    width: 1349px;
+    background-color: rgb(62, 174, 226);
+    display: flex;
+}
+
+#milk1-img{
+    position: absolute;
+    height: 225px;
+    width: 224px;
+    top: 2%;
+    left: 2%;
+}
+
+#mil{
+    text-decoration: none;
+    color: black;
+}
+#milk1-para {
+    height: 140px;
+    width: 600px;
+    border-radius: 6px;
+    background-color: #0563dde3;
+    position: absolute;
+    top: 8%;
+    left: 40%;
+    text-align: center;
+}
+
+#milk1-para:hover {
+    background-color: #8fe2ec;
+}
+
+
+#milk2 {
+    height: 265px;
+    width: 1349px;
+    background-color: #8BC34A;
+    display: flex;
+}
+
+#milk2-img{
+    position: absolute;
+    height: 225px;
+    width: 224px;
+    top: 37%;
+    left: 2%;
+}
+
+#milk2-para {
+    height: 140px;
+    width: 600px;
+    border-radius: 6px;
+    background-color: #0563dde3;
+    position: absolute;
+    top: 42%;
+    left: 41%;
+    text-align: center;
+}
+
+#milk2-para:hover {
+    background-color: #c3eca8;
+}
+
+
+#milk3 {
+    height: 265px;
+    width: 1349px;
+    background-color: rgba(216, 132, 6, 0.945);
+    display: flex;
+}
+
+
+#milk3-img{
+    position: absolute;
+    height: 225px;
+    width: 224px;
+    top: 71%;
+    left: 2%;
+}
+
+#milk3-para {
+    height: 140px;
+    width: 600px;
+    border-radius: 6px;
+    background-color: #0563dde3;
+    position: absolute;
+    top: 75%;
+    left: 41%;
+    text-align: center;
+}
+
+#milk3-para:hover {
+    background-color: rgba(233, 190, 127, 0.945);
+}
+
+.buy-now{
+    position: absolute;
+
+}
+
+#buy-now1 {
+    position: absolute;
+    height: 25px; 
+    width: 86px;
+    background-color: deeppink;
+    top: 28%;
+    left: 50%;
+    font-size: 23px;
+    border-radius: 10px;
+    text-decoration: none;
+    color:#fff;
+    text-align: center;
+}
+#buy-now1:hover{
+    box-shadow: 36px 8px 20px rgb(23, 167, 123) inset;
+    height: 26px;
+    width: 89px;
+    font-size: 24px;
+    text-align: center;
+}
+
+#buy-now2 {
+    position: absolute;
+    height: 25px; 
+    width: 86px;
+    background-color: deeppink;
+    top: 62%;
+    left: 50%;
+    font-size: 23px;
+    border-radius: 10px;
+    text-decoration: none;
+    color:#fff;
+    text-align: center;
+}
+#buy-now2:hover{
+    box-shadow: 36px 8px 20px rgb(23, 167, 123) inset;
+    height: 26px;
+    width: 89px;
+    font-size: 24px;
+    text-align: center;
+}
+
+#buy-now3 {
+    position: absolute;
+    height: 25px; 
+    width: 86px;
+    background-color: deeppink;
+    top: 96%;
+    left: 50%;
+    font-size: 23px;
+    border-radius: 10px;
+    text-decoration: none;
+    color:#fff;
+    text-align: center;
+}
+#buy-now3:hover{
+    box-shadow: 36px 8px 20px rgb(23, 167, 123) inset;
+    height: 26px;
+    width: 89px;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+#detail2 {
+    height: 300px;
+    width: 335px;
+    background-color: #d5eccf;
+    background-image: url(/Dairy_Project/milk2.jpg);
+    padding-left: 26px;
+}
+
+#detail2 {
+    height: 300px;
+    width: 335px;
+    background-color: #fff;
+    background-image: url(/Dairy_Project/Dairy_Ice-Cream.png);
+}
+
+#detail2-div {
+    position: absolute;
+    height: 36px;
+    width: 139px;
+    font-size: 30px;
+    /* background-color: blueviolet; */
+}
+
+#det2-div1 {
+    position: absolute;
+    height: 25px;
+    width: 100px;
+    /* background-color: yellow; */
+    top: 78%;
+    left: 33%;
+}
+
+#ice-img21 {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 900;
+    color: black;
+
+}
+
+#ice-img21:hover {
+    background-color: #fff;
+    border-radius: 1px;
+}
+
+#detail3 {
+    height: 300px;
+    width: 335px;
+    background-color: #fff;
+    background-image: url(/Dairy_Project/Dairy_Ghee.jpg);
+    padding-left: 26px;
+}
+
+#ghe{
+    text-decoration: none;
+}
+
+#det3-div1{
+    position: absolute;
+    height: 25px;
+    width: 100px;
+    /* background-color: yellow; */
+    top: 78%;
+    left: 58%;
+    font-size: 25px;
+    color: red;
+}
+#det3-div1:hover{
+    background-color: rgb(224, 205, 180);
+    border-radius: 3px;
+}
+
+#detail4 {
+    height: 300px;
+    width: 335px;
+    background-color: #fff;
+    background-image: url(/Dairy_Project/Dairy_Peda.jpg);
+    padding-left: 26px;
+}
+
+#ped{
+    text-decoration: none;
+    color:  blue;
+}
+
+#ped:active{
+    color: deeppink;
+}
+
+#det4-div1{
+    position: absolute;
+    height: 25px;
+    width: 100px;
+    /* background-color: yellow; */
+    top: 78%;
+    left: 84%;
+    font-size: 25px;
+    color: red;
+}
+#det4-div1:hover{
+    background-color: rgb(224, 205, 180);
+    border-radius: 3px;
+}

@@ -1,0 +1,215 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+#abo_main{
+    height: 800px;
+    width: auto;
+    /* background-color: red; */
+    background-image: url(/Background_Dairy\ _Proj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* About */
+#abo_1{
+    height: 50px;
+    width: 1349px;
+    background-color: aqua;
+    text-align: center;
+}
+
+/* Aside */
+#abo-asi{
+    height: 70px;
+    width: 1349px;
+    background-color: #108bce;
+    display: flex;
+
+}
+
+.div_ul{
+    margin: auto;
+}
+
+.div_ul>a{
+    text-decoration: none;
+    font-size: large;
+}
+
+.div_ul>a:hover{
+    background-color: #8dd3ec;
+    border-radius: 5px;
+}
+/* Aside done */
+
+#abo-cont1{
+    height: 230px;
+    width: auto;
+    background-color: #8dd3ec;
+    position: relative; 
+    align-items: normal;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 40px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#abo-cont1:hover{
+    background-color: rgb(62, 174, 226);
+}
+
+#cont1-txt{
+    position: absolute;
+    color: red;
+    font-size: 30px;
+    height: 40px;
+    width: 114px;
+    top: 2%;
+    left: 50%;
+
+}
+
+
+#cont1-img{
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    top: 21%;
+    left: 10%;
+}
+
+#per1-img{
+    height: 150px;
+    width: 150px;
+}
+
+#cont1-info{
+    position: absolute;
+    height: 100px;
+    width: 700px;
+    background-color: antiquewhite;
+    top: 30%;
+    left: 40%;
+    border-radius: 10px;
+    padding: 2px 2px;
+}
+
+
+
+
+
+
+
+
+
+/* content 2 */
+#abo-cont2{
+    height: 230px;
+    width: auto;
+    background-color: #8dd3ec;
+    position: relative;
+    margin-top: 60px;
+    border-radius: 40px;
+}
+
+#abo-cont2:hover{
+    background-color: #b2dfdb;
+}
+
+#cont2-txt{
+    position: absolute;
+    color: red;
+    font-size: 30px;
+    height: 40px;
+    width: 114px;
+    top: 2%;
+    left: 50%;
+}
+
+
+#cont2-img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    top: 21%;
+    left: 10%;
+}
+
+#per2-img{
+    height: 150px;
+    width: 150px;
+}
+
+
+
+#cont2-info{
+    position: absolute;
+    height: 100px;
+    width: 700px;
+    background-color: antiquewhite;
+    top: 30%;
+    left: 40%;
+    border-radius: 10px;
+    padding: 2px 2px;
+}
+
+
+
+
+
+/* Content-3 */
+#abo-cont3{
+    height: 230px;
+    width: auto;
+    background-color: #8dd3ec;
+    position: relative;
+    margin-top: 49px;
+    border-radius: 40px;
+}
+
+#abo-cont3:hover{
+    background-color: rgb(62, 174, 226);
+}
+
+#cont3-txt{
+    position: absolute;
+    color: red;
+    font-size: 30px;
+    height: 80px;
+    width: 200px;
+    top: 2%;
+    left: 50%;
+}
+
+
+#cont3-img{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    top: 21%;
+    left: 10%;
+}
+
+#per3-img{
+    height: 150px;
+    width: 150px;
+}
+
+
+
+#cont3-info{
+    position: absolute;
+    height: 100px;
+    width: 700px;
+    background-color: antiquewhite;
+    top: 30%;
+    left: 40%;
+    border-radius: 10px;
+    padding: 4px 4px;
+}

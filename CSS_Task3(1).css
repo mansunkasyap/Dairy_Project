@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#parent{
+    background-color: black;
+    height: 50px;
+    width: auto;
+    display: flex;
+}
+
+h3{
+    color:white;
+    margin: 10px 50px;
+
+}
+#inner{
+    display: flex;
+    width: 400px;
+    margin-left: 250px;
+    color: wheat;
+}
+
+#inner>div{
+    margin: auto;
+    color: beige;
+}
+.abc{
+    height: 30px;
+    width: 60px;
+}
+
+.abc:hover{
+    background-color:rgb(129, 7, 243);
+    border: 3px solid chartreuse;
+}
+
+
+#c5{
+    color: azure;
+    background-color: rgb(66, 66, 235);
+    border-radius: 10px;
+    margin-left: 350px; 
+    margin-top: 10px;
+    padding: 5px;
+}

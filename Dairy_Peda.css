@@ -1,0 +1,170 @@
+*{
+    box-sizing:border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-peda{
+    position: relative;
+    height: 657px;
+    width: auto;
+    background-color: rgb(241, 211, 170);
+    /* border: 2px solid red; */
+
+}
+
+/* #peda-img{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+} */
+
+#info-img{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    top: 30%;
+    left: 10%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 5px bisque;
+}
+#peda-info{
+    position:absolute;
+    height: 500px;
+    width: 800px;
+    /* border: 2px solid blue; */
+    background-color: #E0F2F1;
+    border-radius: 10px;
+    top: 13%;
+    left: 38%;
+}
+#kalkand{
+    position: absolute;
+    height: 31px;
+    width: 276px;
+    /* background-color: brown; */
+    font-size: 24px;
+    top: 2%;
+    left: 5%;
+}
+
+#peda-price{
+    position: absolute;
+    height: 31px;
+    width: 125px;
+    /* background-color: cadetblue; */
+    top: 10%;
+    left: 6%;
+    font-size: 22px;
+}
+
+#peda-price:hover{
+    color: red;
+}
+
+#brand{
+    position: absolute;
+    height: 40px;
+    width: 350px;
+    /* border: 2px solid red; */
+    border-bottom: 3px solid lightblue;
+    border-radius: 8px;
+    left: 23%;
+    top: 24%;
+}
+
+#brand-A{
+    position: absolute;
+    height: 40px;
+    width: 65px;
+    font-size: 25px;
+    left: 6%;
+    /* border: 3px solid red; */
+}
+#brand-B{
+    position: absolute;
+    height: 40px;
+    width: 65px;
+    left: 62%;
+    font-size: 25px;
+    /* border: 1px solid red; */
+}
+
+#sweet{
+    position: absolute;
+    height: 50px;
+    width: 350px;
+    /* border: 2px solid red; */
+    border-bottom: 3px solid lightblue;
+    border-radius: 8px;
+    left: 23%;
+    top: 35%;
+}
+
+#sweet-A{
+    position: absolute;
+    height: 40px;
+    width: 165px;
+    font-size: 25px;
+    left: 6%;
+}
+
+#sweet-B{
+    position: absolute;
+    height: 40px;
+    width: 65px;
+    left: 62%;
+    font-size: 25px;
+}
+
+
+#size{
+    position: absolute;
+    height: 50px;
+    width: 350px;
+    /* border: 2px solid red; */
+    border-bottom: 3px solid lightblue;
+    border-radius: 8px;
+    left: 23%;
+    top: 49%;
+}
+
+#size-A{
+    position: absolute;
+    height: 40px;
+    width: 165px;
+    font-size: 25px;
+    left: 6%;
+}
+#size-B{
+    position: absolute;
+    height: 40px;
+    width: 165px;
+    font-size: 25px;
+    left: 64%;
+}
+
+#buy{
+    position: absolute;
+    height: 60px;
+    width: 190px;
+    /* text-align: center; */
+    background-color: rgb(12, 95, 67);
+    top: 77%;
+    left: 33%;
+    border-radius: 10px;
+}
+
+
+#ltst-price {
+    position: absolute;
+    font-size: 25px;
+    left: 8%;
+    top: 24%;
+    color: white;
+}
+
+#buy:hover{
+    background-color: rgb(8, 202, 202);
+}

@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<!-- saved from url=(0035)https://www.patnadairy.org/milk.php -->
+<html lang="en-US" class=" js csstransitions"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <title>Welcome to Patna Dairy Project | Sudha Milk Products</title>
+    <link rel="stylesheet" id="google-open-sans-css" href="./Milkhtml_header_files/css" type="text/css" media="all">
+    <link rel="stylesheet" id="google-lily-script-one-css" href="./Milkhtml_header_files/css(1)" type="text/css" media="all">
+    <link rel="stylesheet" id="google-Leckerli-one-css" href="./Milkhtml_header_files/css(2)" type="text/css" media="all">
+    <link rel="stylesheet" id="woocommerce-layout-css" href="./Milkhtml_header_files/woocommerce-layout18f6.css" type="text/css" media="all">
+    <link rel="stylesheet" id="woocommerce-smallscreen-css" href="./Milkhtml_header_files/woocommerce-smallscreen18f6.css" type="text/css" media="only screen and (max-width: 768px)">
+    <link rel="stylesheet" id="woocommerce-general-css" href="./Milkhtml_header_files/woocommerce18f6.css" type="text/css" media="all">
+    <link rel="stylesheet" id="bootstrap-css" href="./Milkhtml_header_files/bootstrape7f0.css" type="text/css" media="all">
+    <link rel="stylesheet" id="flexslider-css" href="./Milkhtml_header_files/flexslider3601.css" type="text/css" media="all">
+    <link rel="stylesheet" id="owl-carousel-css" href="./Milkhtml_header_files/owl.carousel8a28.css" type="text/css" media="all">
+    <link rel="stylesheet" id="font-awesome-css" href="./Milkhtml_header_files/font-awesomefa0c.css" type="text/css" media="all">
+    <link rel="stylesheet" id="selectric-css" href="./Milkhtml_header_files/selectric5152.css" type="text/css" media="all">
+    <link rel="stylesheet" id="image-light-box-css-css" href="./Milkhtml_header_files/image-light-box5152.css" type="text/css" media="all">
+    <link rel="stylesheet" id="meanmenu-css" href="./Milkhtml_header_files/meanmenu1717.css" type="text/css" media="all">
+    <link rel="stylesheet" id="responsive-tables-css" href="./Milkhtml_header_files/responsive-tables6b25.css" type="text/css" media="all">
+    <link rel="stylesheet" id="animate-css" href="./Milkhtml_header_files/animate5152.css" type="text/css" media="all">
+    <link rel="stylesheet" id="main-css" href="./Milkhtml_header_files/maine7f0.css" type="text/css" media="all">
+    <link rel="stylesheet" id="parent-custom-css" href="./Milkhtml_header_files/custom5152.css" type="text/css" media="all">
+    <style type="text/css">
+img {border: none;}
+h1 {
+	font: 4em normal Georgia, 'Times New Roman', Times, serif;
+	padding: 10px 0;
+	color: #aaa;
+	text-align: center;
+}
+h1 span { color: #666; }
+h1 small{
+	font: 0.3em normal Verdana, Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	letter-spacing: 0.65em;
+	display: block;
+	color: #666;
+}
+h1 a {text-decoration: none;}
+a {color: #d60000; text-decoration: none;}
+
+/*--Tooltip Styles--*/
+.tip {
+	color: #fff;
+
+	display:none; /*--Hides by default--*/
+	padding:10px;
+	position:absolute;
+	z-index:1000;
+	
+}
+
+</style>
+          <script src="./Milkhtml_header_files/sdk.js.download" async="" crossorigin="anonymous"></script><script type="text/javascript" src="./Milkhtml_header_files/jquery.min.js.download"></script> 
+<script type="text/javascript">
+$(document).ready(function() {
+	//Tooltips
+	$(".tip_trigger").hover(function(){
+		tip = $(this).find('.tip');
+		tip.show(); //Show tooltip
+	}, function() {
+		tip.hide(); //Hide tooltip		  
+	}).mousemove(function(e) {
+		var mousex = e.pageX + 20; 
+		var mousey = e.pageY + 20; 
+		var tipWidth = tip.width(); 
+		var tipHeight = tip.height();
+		
+		
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+		
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+		  
+		if ( tipVisX < 20 ) { 
+			mousex = e.pageX - tipWidth - 20;
+		} if ( tipVisY < 10 ) { 
+			mousey = e.pageY - tipHeight - 20;
+		} 
+		tip.css({  top: mousey, left: mousex });
+	});
+});
+
+</script>
+<!---------------------tool tip------------------------>
+<style type="text/css">
+</style>
+<style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style></head><body class=""><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
+<script async="" defer="" crossorigin="anonymous" src="./Milkhtml_header_files/sdk.js(1).download" nonce="DgEEfMJB"></script>
+
+
+<!-- Start of Header Wrapper -->
+<div class="header-wrapper" style="
+ -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.49);
+ -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 0.49);
+ box-shadow:         0px 3px 5px rgba(100, 100, 100, 0.49);
+ }">
+   
+<section class="topbar">
+    <div class="container">
+        <div class="col-md-4">
+            <div class="top">
+                <ul>
+                    <li><img src="./Milkhtml_header_files/cow.png"></li>
+                    <li><a href="http://patnadairy.org/health/" target="_blank">Patnadairy Health Services</a> </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+  <header class="header container fadeInDown ">
+
+        <div class="logo-wrapper">
+            <div class="logo">
+                <h1 class="text-logo">
+                    <a href="https://www.patnadairy.org/index.php" title="Cream">
+                  <img src="./Milkhtml_header_files/logo.png" alt=""> 
+                                     </a>
+                </h1>
+                         </div>
+        </div>
+        <div class="main-menu-wrapper">
+            <nav id="nav" class="main-menu nav-collapse clearfix">
+                <ul class="clearfix">
+                    <li class="current-menu-item"><a href="https://www.patnadairy.org/index.php">Home</a>
+                     
+                </li>
+                    <li><a href="https://www.patnadairy.org/about.php">About US</a>
+                        <ul class="sub-menu" style="display: none;">
+                            <li><a href="https://www.patnadairy.org/history.php">History</a></li>
+                            <li><a href="https://www.patnadairy.org/management.php">Management</a></li>
+							 <li><a href="https://www.patnadairy.org/chairman.php">Chairman Message</a></li>
+                            <li><a href="https://www.patnadairy.org/director-message.php">Director Message</a></li>
+							 <li> <a href="https://www.patnadairy.org/our-team.php">Our Team</a></li>
+                             <li> <a href="https://www.patnadairy.org/award.php">Award</a></li>
+
+                        </ul>
+                    </li>
+                   
+                     <li><a href="https://www.patnadairy.org/milk.php#">Products</a>
+
+                        <ul class="sub-menu" style="display: none;">
+                           <li> <a href="https://www.patnadairy.org/milk.php">Milk</a>          </li>
+
+                            <li>    <a href="https://www.patnadairy.org/milk%20products.php">Milk Products</a>     </li> 
+          
+            <li><a href="https://www.patnadairy.org/ice%20cream.php">Ice Cream</a> </li>
+ 
+                        </ul>
+                    </li>
+                   
+
+                      <li><a href="https://www.patnadairy.org/recipes.php">Recipes</a>
+
+                        <ul class="sub-menu" style="display: none;">
+                            <li><a href="https://www.patnadairy.org/Paneer%20Masala.php">Paneer Masala</a></li>
+            <li><a href="https://www.patnadairy.org/Orange%20Sweet.php">Orange Sweet</a></li>
+            <li><a href="https://www.patnadairy.org/Paneer%20Roll.php">Paneer Roll</a></li>
+            <li><a href="https://www.patnadairy.org/Mango%20Rounds.php">Mango Rounds</a></li>
+            <li><a href="https://www.patnadairy.org/Paneer%20Marvel.php">Paneer Marvel</a></li>
+
+                        </ul>
+                    </li>
+					 <li><a href="https://www.patnadairy.org/milk.php#">Gallery</a>
+
+                        <ul class="sub-menu" style="display: none;">
+                           <li> <a href="https://www.patnadairy.org/gallery.php">Event Gallery</a></li>
+
+                            <li><a href="https://www.patnadairy.org/video.php">Video Gallery</a></li> 
+                              </ul>
+                    </li>
+               
+					       <li><a href="https://www.patnadairy.org/tender.php">Tender</a></li> 
+						    
+      <li><a href="https://www.patnadairy.org/career.php">Career</a></li> 
+      <li><a href="https://www.patnadairy.org/contact.php">Contact Us</a></li> 
+
+                </ul>
+            </nav>
+        </div>
+
+  <div class="header-border-bottom"></div>
+        
+         
+    </header>     </div>
+<!-- End of Header Wrapper -->
+
+<div class="page-banner" style="background-repeat: no-repeat; background-position: center top; background-image: url(&#39;images/temp-images/banner.jpg&#39;); background-size: cover; 
+ -webkit-box-shadow: 0px 3px 5px rgba(100, 100, 100, 0.49);
+ -moz-box-shadow:    0px 3px 5px rgba(100, 100, 100, 0.49);
+ box-shadow:         0px 3px 5px rgba(100, 100, 100, 0.49);
+ }"> 
+    <div class="container fadeInLeft ">
+        <h2 class="page-title">Milk</h2>
+    </div>
+</div>
+<!-- start of page content -->
+ 
+
+   <div class="page-content container">
+
+    <div class="row" style="background:#EFEFEF">
+
+        <div class="main col-md-8 col-lg-8" role="main" style="background:#EBEAE9">
+
+           
+            
+                <div class="entry-content post-content-wrapper clearfix">
+                   
+                    <div class="row ">
+                    <br>
+                    		<div class="item-content ">
+			                    <p align="center">
+			                    	<a href="https://www.patnadairy.org/milk.php#" class="tip_trigger"> <img src="./Milkhtml_header_files/gold.png" alt="">
+			                  		<span class="tip"><img src="./Milkhtml_header_files/chart-bg.jpg" height="275" alt=""></span> 
+			                        </a>
+			                    </p>
+		                     
+			                    <table class="table-responsive" style="margin-right:3px">
+								  <tbody><tr>					  
+								    <td width="50">S.No</td>
+								    <td width="40">Product Name</td>
+								    <td width="135">Pack Size</td>
+								  </tr>
+								  <tr>
+								    <td>1.</td>
+								    <td>Sudha Gold</td>
+								    <td>200/500 milliliter pack</td>
+								  </tr>
+								</tbody></table> 
+							</div>
+							<div class="item-content2">                      
+	                    		<p align="center"> 
+	                    			<a href="https://www.patnadairy.org/milk.php#" class="tip_trigger"><img src="./Milkhtml_header_files/heldi.png" alt="">                     
+	                     				<span class="tip"><img src="./Milkhtml_header_files/chart34.jpg" height="275" alt=""></span> 
+	                     			</a>
+	                     		</p>
+	                     		<table class="table-responsive">
+								<tbody><tr>							  
+								    <td width="73">S.No</td>
+								    <td width="40">Product Name</td>
+								    <td width="135">Pack Size</td>
+								</tr>
+								<tr>
+								    <td>2.</td>
+								    <td>Sudha Heldi</td>
+								    <td>200/500 milliliter pack</td>
+								</tr>
+								</tbody></table>
+                    		</div>
+                    		</div>
+                    		<br>
+                    		<div class="row">
+                    		<div class="item-content">
+			                    <p align="center">
+			                    	<a href="https://www.patnadairy.org/milk.php#" class="tip_trigger"> <img src="./Milkhtml_header_files/shakti.png" alt="">
+			                  		<span class="tip"><img src="./Milkhtml_header_files/chart-2.jpg" height="275" alt=""></span> 
+			                        </a>
+			                    </p>
+		                     
+			                    <table class="table-responsive" style="margin-right:3px">
+								  <tbody><tr>  
+								    <td width="73">S.No</td>
+								    <td width="40">Product Name</td>
+								    <td width="135">Pack Size</td>
+								  </tr>
+								  <tr>
+								    <td>3.</td>
+								    <td>Sudha Shakti</td>
+								    <td>200/500 milliliter pack</td>
+								  </tr>
+								</tbody></table> 
+							</div>
+
+							<div class="item-content2">                      
+	                    		<p align="center"> 
+	                    			<a href="https://www.patnadairy.org/milk.php#" class="tip_trigger"><img src="./Milkhtml_header_files/smart.png" alt="">                     
+	                     				<span class="tip"><img src="./Milkhtml_header_files/chart-4.jpg" height="275" alt=""></span> 
+	                     			</a>
+	                     		</p>  
+	                     		<table class="table-responsive">
+								 <tbody><tr>  
+								    <td width="73">S.No</td>
+								    <td width="40">Product Name</td>
+								    <td width="135">Pack Size</td>
+								  </tr>
+								  <tr>
+								    <td>4.</td>
+								    <td>Sudha Smart</td>
+								    <td>200/500 milliliter pack</td>
+								  </tr>
+								</tbody></table>
+                    		</div>
+                           
+                    		<div class="item-content">
+			                    <p align="center">
+			                    	<a href="https://www.patnadairy.org/milk.php#" class="tip_trigger"> <img src="./Milkhtml_header_files/cow(1).png" alt="">
+			                  		<span class="tip"><img src="./Milkhtml_header_files/chart-5.jpg" height="275" alt=""></span> 
+			                        </a>
+			                    </p>
+		                     
+			                    <table class="table-responsive">
+								  <tbody><tr>  
+								    <td width="73">S.No</td>
+								    <td width="40">Product Name</td>
+								    <td width="135">Pack Size</td>
+								  </tr>
+								  <tr>
+								    <td>5.</td>
+								    <td>Cow Milk</td>
+								    <td>200/500 milliliter pack</td>
+								  </tr>
+								</tbody></table> 
+							</div>
+                </div>            
+            </div>
+                       <!-- end of comments -->
+        </div>
+ <!-- start of sidebar -->
+        <aside class="sidebar col-md-4" role="complementary">
+                  <section id="categories-2" class="widget widget_categories">
+                <h3 class="title">Quick Link</h3>
+                <ul>
+                    <li class="cat-item cat-item-6"><a href="https://www.patnadairy.org/milk.php">Milk</a>
+                    </li>
+                    <li class="cat-item cat-item-7"><a href="https://www.patnadairy.org/milk%20products.php">Milk &amp; Milk Products</a>
+                    </li>
+                    <li class="cat-item cat-item-1"><a href="https://www.patnadairy.org/ice%20cream.php">Ice Cream</a>                   </li>
+                                 </ul>
+            </section>
+            <section id="woocommerce_products-2" class="widget woocommerce widget_products">
+                <h3 class="title"> </h3>
+                 <img src="./Milkhtml_header_files/milk2.jpg" alt="">
+                           </section>
+        </aside>
+        <!-- end of sidebar -->
+    </div>
+</div><!-- end of page content -->
+<!-- Start Footer -->
+<footer class="footer">
+
+    <div class="footer-top container">
+
+        <div class="row">
+
+            <div class="col-lg-8 col-xs-12">
+
+                <div class="footer-menu-wrapper fade-in-left ">
+                    <nav class="footer-nav clearfix">
+                        <ul id="menu-footer-menu" class="clearfix">
+                            <li>
+                                <a href="https://www.patnadairy.org/index.php">Home</a></li>
+                            <li><a href="https://www.patnadairy.org/products.php">Products</a>
+                            </li>
+                            <li><a href="https://www.patnadairy.org/plant.php">Plant</a></li>
+                            <li><a href="https://www.patnadairy.org/career.php">Career</a></li>
+							 <li><a href="https://www.patnadairy.org/contact.php">Contact</a></li>
+							 <li><a href="https://www.patnadairy.org/privacy-policy.php">Privacy-policy</a></li>
+                        </ul>
+                    </nav>
+                </div>
+
+                <div class="contact-details clearfix fade-in-left ">
+                    <address>
+                        <i class="fa fa-home"></i>PATNA DAIRY PROJECT Vaishal Patliputra Dugdh Utpadak Sahkari Sangh Ltd. Feeder Balancing Dairy Complex, Phulwari Sharif, Patna - 801505
+                    </address>
+                    <a class="phone-number" href="tel:18005551234">
+                        <i class="fa fa-mobile"></i>    
+0612 - 2251154 , 2252542</a>
+                    <span class="email">
+                        <i class="fa fa-envelope-o"></i>
+                        <a href="https://www.patnadairy.org/milk.php#">   
+info@patnadairy.org</a></span>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-xs-12">
+                <div class="social-networks fade-in-right ">
+                    <p class="invitation">Follow us on Facebook</p>
+                    <div class="fb-page fb_iframe_widget" data-href="https://www.facebook.com/patnadairyproject" data-tabs="timeline" data-width="" data-height="240" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="adapt_container_width=true&amp;app_id=2296428773937010&amp;container_width=303&amp;height=240&amp;hide_cover=false&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpatnadairyproject&amp;locale=en_GB&amp;sdk=joey&amp;show_facepile=true&amp;small_header=true&amp;tabs=timeline&amp;width="><span style="vertical-align: bottom; width: 303px; height: 240px;"><iframe name="f3405f743e11e8c" width="1000px" height="240px" data-testid="fb:page Facebook Social Plugin" title="fb:page Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="./Milkhtml_header_files/page.html" style="border: none; visibility: visible; width: 303px; height: 240px;" class=""></iframe></span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="footer-bottom fadeInUp ">
+        <div class="container">
+            <p class="copyright-text">©2011 Patna Dairy Projects | Design &amp; Developed By :<a href="http://www.webmaker.in/" target="_blank">SAM Softech</a></p><a href="https://www.patnadairy.org/milk.php#top" id="scroll-top" style="display: block;"></a>
+        </div>
+    </div>
+
+</footer><!-- End Footer -->
+<!-- End Footer -->
+<script type="text/javascript" id="quick-js">
+</script>
+<script type="text/javascript" src="./Milkhtml_header_files/jqueryc1d8.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery-migrate1576.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/modernizr.custom61da.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/bootstrap19ce.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.flexslider-min605a.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/owl.carousel.minc43a.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.appear2d16.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.hoverdir5152.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/imagelightbox5152.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.isotope.mind5f7.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.validate.min90f9.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.selectric.min7d4c.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.transite2dc.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/jquery.meanmenu.min1717.js.download"></script>
+<script type="text/javascript" src="./Milkhtml_header_files/custome7f0.js.download"></script>
+
+ 
+</body></html>
